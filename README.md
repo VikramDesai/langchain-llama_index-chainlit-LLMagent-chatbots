@@ -1,2 +1,2 @@
-# langchain-llama_index-chainlit-LLMagent-chatbots
-How to use Langchain to unlock the potential capability of language models like gpt-3.5-turbo or gpt-4 by demonstrating chatbot development that thrives on internet data
+This repository contains chatbots built with LangChain & Chainlit. The chatbot can answer questions based on a provided Document or plan dynamic Trip itineraries.
+[![Watch the video](https://drive.google.com/file/d/1TIKcJaHmNoTtNP8-RZiXCA0RynyRXJgQ/view?usp=drive_link)](https://youtu.be/6xBEp7x8AyY)
