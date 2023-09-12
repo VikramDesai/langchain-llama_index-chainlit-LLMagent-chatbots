@@ -7,15 +7,20 @@ https://github.com/VikramDesai/langchain-llama_index-chainlit-LLMagent-chatbots/
 Installation: 
 
 1. Clone the repository:
+  ``` 
   git clone https://github.com/VikramDesai/langchain-llama_index-chainlit-LLMagent-chatbots.git
-
-2. To run the examples, you will need to install the following dependencies:
+  ```
+3. To run the examples, you will need to install the following dependencies:
+  ```
   !pip install langchain openai tiktoken duckduckgo-search
-
-3. Once you have installed the dependencies, you can run the example
+  ```
+4. Once you have installed the dependencies, you can run the example
+  ```
   python3 -m  chainlit run HitchHikersGuide.py
-
+  ```
 Usage:
  
 1.Set your openAI token key inside the file : 
+  ```
   os.environ["OPENAI_API_KEY"] = "<openai-key>"
+  ```
